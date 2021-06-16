@@ -1,4 +1,4 @@
-# boldlink
+# Hello World Project
 
 This repository is for a few demo projects for "Hello, World!"
 
