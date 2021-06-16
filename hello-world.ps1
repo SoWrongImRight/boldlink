@@ -1,7 +1,7 @@
 # Initial greeting
 write-host "Good Day!"
 
-# Capture the user's name.  I used this method as the typical read-host appends a colon to the end the query
+# Capture the user's name.  I used this method as the typical 'Read-Host' appends a colon to the end the query
 Write-Host "What is your name? " -NoNewline
 $name = $Host.UI.ReadLine()
 
